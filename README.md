@@ -19,6 +19,13 @@ https://user-images.githubusercontent.com/37948407/135837221-d6db8aa8-5c4e-426e-
 **Tutorial that I modified to fit our project requirements:** https://proandroiddev.com/ui-widgets-from-scratch-in-jetpack-compose-b16a74ca95e5
 
 **Various Resources that I used for different elements of this project:**
+https://betterprogramming.pub/the-all-new-state-in-jetpack-compose-78b524cc346
+https://blog.mindorks.com/jetpack-compose-tutorial
+https://www.geeksforgeeks.org/edittext-in-android-using-jetpack-compose/
+https://www.youtube.com/watch?v=6D57qSBmPLA
+https://www.youtube.com/watch?v=mymWGMy9pYI&ab_channel=AndroidDevelopers
+https://www.youtube.com/watch?v=BhqPpUYJYeQ&ab_channel=AndroidDevelopers
+https://www.youtube.com/watch?v=O_MmOP5fjUg&ab_channel=CodingWithMitch
 
 **Codelab that I hope to complete soon on how to create a TODO list app with Jetpack Compose:** https://developer.android.com/codelabs/jetpack-compose-state#0
 
